@@ -2,9 +2,10 @@
   "name": "ecs-sample",
   "version": "1.0.0",
   "description": "Sample for Amazon ECS.Task Definition and Service...",
+  "engine": ">=4.2.6",
   "main": "index.js",
   "scripts": {
-    "start": "node --harmony index.js"
+    "start": "node index.js"
   },
   "author": "NewGyu@kinoboku.net",
   "license": "MIT",
